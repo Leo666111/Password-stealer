@@ -15,4 +15,3 @@ powershell -Command "Add-Type -AssemblyName System.Windows.Forms; [System.Window
 timeout /t 2 >nul
 
 echo Copied the content!
-pause
